@@ -1,0 +1,15 @@
+Name: Tess Porter
+UserID: tcp46
+Partner: Valli Karuppiah
+
+Thoughts on the Lab:
+The lab went pretty well. I got a little tripped up on questions 4 and 5.
+The Lectures on Monday (07/08) and Wednesday (07/10) were really helpful in 
+explaining multiple stars on types (char** and what not).
+
+Question 5:
+I am really unsure as to if I did this question right. 
+From the instructions given I had a hard time pinpointing exactly what I 
+should be doing.
+The timings work on the C Visualizer, but for some reason a segmentation error
+is thrown when I run it in tux using gcc.
